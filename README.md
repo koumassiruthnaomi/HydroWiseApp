@@ -8,11 +8,11 @@ HydroWise est un projet qui aide à piloter l'eau des sites olympiques, de la ne
 
 ## Essayer la démo
 
-**Lien :** [À COMPLÉTER : adresse GitHub Pages, par exemple `https://koumassiruthnaomi.github.io/hydrowise/`]
+**Lien :** https://koumassiruthnaomi.github.io/HydroWiseApp/
 
 **Ou scanner ce QR code :**
 
-![QR code vers la démo](qr-hydrowise.png)
+![QR code vers la démo](QR_app.png)
 
 ## Le problème
 
