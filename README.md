@@ -4,7 +4,9 @@
 
 HydroWise est un projet qui aide à piloter l'eau des sites olympiques, de la neige de culture jusqu'au public. Ce dépôt contient **Éco-spectateur**, l'application qui permet aux spectateurs, aux habitants et aux bénévoles de participer : on scanne, on signale, on voit l'effet de ses gestes.
 
-> **Prototype de démonstration.** Toutes les données affichées (consommations, économies, historique) sont **simulées**. Aucun serveur n'est utilisé.
+> **Prototype de démonstration.** Toutes les données affichées (consommations, économies, historique) sont **simulées**. Aucun serveur n'est utilisé.\
+
+![Interface](./image1.png)
 
 ## Essayer la démo
 
@@ -29,6 +31,8 @@ HydroWise est un projet qui aide à piloter l'eau des sites olympiques, de la ne
 | **Scan QR / NFC** | Informations et état du point d'eau, signalement pré-rempli (le scan est simulé dans la démo) |
 | **Mes gestes** | Simulateur de durée de douche, score éco sur 10, économies en litres, badges |
 | **Vue HydroWise (technicien)** | Réception des signalements avec statut (nouveau, en cours, résolu), historique par jour, alertes, statistiques globales |
+
+![](./images2.png)
 
 ## Comment ça s'insère dans HydroWise
 
