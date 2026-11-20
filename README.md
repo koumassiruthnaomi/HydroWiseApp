@@ -41,8 +41,7 @@ Dans cette démo, la vue « HydroWise » **simule** la réception côté technic
 Aucune installation : c'est un fichier HTML unique.
 
 1. Ouvrir `index.html` dans un navigateur, ou utiliser le lien de démo ci-dessus.
-2. Choisir **Spectateur** ou **Technicien** sur l'écran d'accueil.
-3. Parcours conseillé : ouvrir la carte, faire « Simuler un scan », envoyer un signalement, puis passer sur la vue HydroWise pour le voir arriver.
+2. Parcours conseillé : ouvrir la carte, faire « Simuler un scan », envoyer un signalement, puis passer sur la vue HydroWise pour le voir arriver.
 
 Les signalements sont conservés dans le navigateur de l'appareil (`localStorage`) : ils ne passent pas d'un téléphone à un autre.
 
