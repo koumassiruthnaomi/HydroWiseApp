@@ -32,7 +32,7 @@ HydroWise est un projet qui aide à piloter l'eau des sites olympiques, de la ne
 | **Mes gestes** | Simulateur de durée de douche, score éco sur 10, économies en litres, badges |
 | **Vue HydroWise (technicien)** | Réception des signalements avec statut (nouveau, en cours, résolu), historique par jour, alertes, statistiques globales |
 
-![](./images2.png)
+![](./image2.png)
 
 ## Comment ça s'insère dans HydroWise
 
