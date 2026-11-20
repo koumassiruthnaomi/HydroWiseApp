@@ -33,6 +33,8 @@ HydroWise est un projet qui aide à piloter l'eau des sites olympiques, de la ne
 | **Vue HydroWise (technicien)** | Réception des signalements avec statut (nouveau, en cours, résolu), historique par jour, alertes, statistiques globales |
 
 ![](./image2.png)
+**Signalements**
+![](./image3.png)
 
 ## Comment ça s'insère dans HydroWise
 
