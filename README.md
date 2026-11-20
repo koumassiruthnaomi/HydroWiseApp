@@ -16,6 +16,10 @@ HydroWise est un projet qui aide à piloter l'eau des sites olympiques, de la ne
 
 ![QR code vers la démo](QR_app.png)
 
+## Ma contribution
+
+J’ai participé au développement du prototype web **Éco-spectateur**, qui permet de visualiser la consommation d’eau, de simuler des économies et de signaler une fuite. J’ai mis la démo en ligne avec GitHub Pages et créé un QR code pour y accéder directement depuis un téléphone.
+
 ## Le problème
 
 - Moins de neige naturelle, donc plus de neige artificielle, donc plus d'eau et d'énergie.
